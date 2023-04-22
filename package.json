@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chunk": "^0.0.3",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "package-name": "^0.1.0"
+  }
+}
